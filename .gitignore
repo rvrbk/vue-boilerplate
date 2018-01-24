@@ -1,5 +1,6 @@
 /node_modules
-/public
+/public/app.js
+/public/app.css
 /.DS_Store
 /mix-manifest.json
 */.DS_Store
